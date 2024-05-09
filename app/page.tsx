@@ -104,7 +104,6 @@ export default function Home() {
           ))}
        </ul>
         </div>
-        
         <div className="relative">
           <textarea 
             value={question}
